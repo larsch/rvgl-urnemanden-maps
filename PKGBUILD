@@ -23,7 +23,7 @@ source=(
 	"pisa.zip::https://www.revoltworld.net/dl/pisa/?filename=pisa.zip&wpdmdl=4983"
     "JungleVolt.zip::https://www.revoltworld.net/dl/junglevolt/?ind=0&filename=JungleVolt.zip&wpdmdl=3517"
     "ragarden.zip::https://www.revoltworld.net/dl/ragarden/?ind=0&filename=ragarden.zip&wpdmdl=1969")
-noextract=(pisa.zip JungleVolt.zip ragarden.zip)
+noextract=()
 sha256sums=(
 	'4f51d0e02469e04ac20267db1724bff843754b4f3abfe568ac7d157fe295dbac'
     '145623126e3cace64362dd54982a946c98bd59bf2c7b0cde6db72711bf309d07'
